@@ -1,0 +1,7 @@
+flask
+slack-bolt
+slack-sdk
+openai
+dotenv
+tqdm
+matplotlib
